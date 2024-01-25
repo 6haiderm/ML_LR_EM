@@ -9,3 +9,5 @@ Different errors were calculated and all models were compared.
 
 --https://colab.research.google.com/drive/16fyqszTYamwr-aNvwoVoXkXdrXjKHWD9?usp=sharing (Project # 1)
 
+## I used VS code, Pyhton to push the files to my GitHub Repository.
+## Also, you can use the above-provided link to check the Google Collab Notebook.
